@@ -41,7 +41,7 @@ body {
 	background-color: #dbdbdb;
 	color: #2b2b2b;
   	font-family: sans-serif;
-  	font-size: 10px;
+  	font-size: 14px;
 	line-height: 1;
 }
 
@@ -89,6 +89,7 @@ nav {
 }
 
 .restaurant-list {
+	display: inline-block;
 	width: 100%;
   	padding: 3%;
 	border: 15%;
